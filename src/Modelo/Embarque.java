@@ -3,7 +3,7 @@ package Modelo;
 import javax.swing.JOptionPane;// MANEJADOR DE VENTANAS
 
 public class Embarque {
-
+// james 12345_pruba
     private String codigo;
     private String distribuidor;
     private String tipoladrillo;
