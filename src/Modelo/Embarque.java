@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;// MANEJADOR DE VENTANAS
 
 public class Embarque {
 // james 12345_pruba
+    // JAMES SE LA ESTA VIVIENDO AL 100
     private String codigo;
     private String distribuidor;
     private String tipoladrillo;
