@@ -20,7 +20,7 @@ public class Embarque {
         if (cl>0){
             this.cantLadrillos=cl;        
         }else{
-             JOptionPane.showMessageDialog(null,"ERROR LA CANTIDAD ES NEGATIVA");       
+             JOptionPane.showMessageDialog(null,"ERROR LA, (ESTA ES LA PARTE DE PRUEBA) CANTIDAD ES NEGATIVA");       
         }  
     }
     //METODOS PARA LOS CALCULOS 
